@@ -1,0 +1,176 @@
+role       permission_key             permission_description   
+---------  -------------------------  -------------------------
+Admin      apply_leave                Apply leave              
+Admin      apply_leave                Apply leave              
+Admin      approve_leave              Approve leave            
+Admin      approve_leave              Approve leave            
+Admin      assign_leads               Assign leads             
+Admin      assign_leads               Assign leads             
+Admin      assign_project_team        Assign project team      
+Admin      assign_project_team        Assign project team      
+Admin      assign_roles               Assign roles             
+Admin      assign_roles               Assign roles             
+Admin      assign_task                Assign task              
+Admin      assign_task                Assign task              
+Admin      clock_attendance           Clock in/out             
+Admin      clock_attendance           Clock in/out             
+Admin      comment_attendance         Comment attendance       
+Admin      comment_attendance         Comment attendance       
+Admin      comment_eod                Comment EOD              
+Admin      comment_eod                Comment EOD              
+Admin      comment_leave              Comment leave            
+Admin      comment_leave              Comment leave            
+Admin      comment_sales              Comment on leads         
+Admin      comment_sales              Comment on leads         
+Admin      comment_task               Comment task             
+Admin      comment_task               Comment task             
+Admin      convert_client             Convert lead to client   
+Admin      convert_client             Convert lead to client   
+Admin      create_project             Create project           
+Admin      create_project             Create project           
+Admin      create_task                Create task              
+Admin      create_task                Create task              
+Admin      create_user                Create new users         
+Admin      create_user                Create new users         
+Admin      delete_data                Delete data              
+Admin      delete_data                Delete data              
+Admin      delete_eod                 Delete EOD               
+Admin      delete_eod                 Delete EOD               
+Admin      delete_project             Delete project           
+Admin      delete_project             Delete project           
+Admin      delete_task                Delete task              
+Admin      delete_task                Delete task              
+Admin      delete_user                Delete / deactivate users
+Admin      delete_user                Delete / deactivate users
+Admin      edit_project               Edit project             
+Admin      edit_project               Edit project             
+Admin      edit_task                  Edit task                
+Admin      edit_task                  Edit task                
+Admin      edit_user                  Edit user details        
+Admin      edit_user                  Edit user details        
+Admin      manage_data_categories     Manage data categories   
+Admin      manage_data_categories     Manage data categories   
+Admin      manage_departments         Manage departments       
+Admin      manage_departments         Manage departments       
+Admin      manage_roles               Manage roles             
+Admin      manage_roles               Manage roles             
+Admin      manage_settings            Manage settings          
+Admin      manage_settings            Manage settings          
+Admin      manage_teams               Manage teams             
+Admin      manage_teams               Manage teams             
+Admin      reset_password             Reset any user password  
+Admin      reset_password             Reset any user password  
+Admin      submit_eod                 Submit EOD               
+Admin      submit_eod                 Submit EOD               
+Admin      update_sales               Update sales             
+Admin      update_sales               Update sales             
+Admin      upload_data                Upload data              
+Admin      upload_data                Upload data              
+Admin      view_activity_logs         View activity logs       
+Admin      view_activity_logs         View activity logs       
+Admin      view_attendance            View attendance          
+Admin      view_attendance            View attendance          
+Admin      view_attendance_reports    View attendance reports  
+Admin      view_attendance_reports    View attendance reports  
+Admin      view_dashboard_admin       Admin dashboard          
+Admin      view_dashboard_admin       Admin dashboard          
+Admin      view_dashboard_department  Department dashboard     
+Admin      view_dashboard_department  Department dashboard     
+Admin      view_dashboard_team        Team dashboard           
+Admin      view_dashboard_team        Team dashboard           
+Admin      view_departments           View departments         
+Admin      view_departments           View departments         
+Admin      view_eod                   View EOD                 
+Admin      view_eod                   View EOD                 
+Admin      view_leaves                View leaves              
+Admin      view_leaves                View leaves              
+Admin      view_projects              View projects            
+Admin      view_projects              View projects            
+Admin      view_roles                 View roles               
+Admin      view_roles                 View roles               
+Admin      view_sales                 View sales & leads       
+Admin      view_sales                 View sales & leads       
+Admin      view_sales_status_history  View sales status history
+Admin      view_sales_status_history  View sales status history
+Admin      view_tasks                 View tasks               
+Admin      view_tasks                 View tasks               
+Admin      view_uploaded_data         View uploaded data       
+Admin      view_uploaded_data         View uploaded data       
+Admin      view_users                 View user profiles       
+Admin      view_users                 View user profiles       
+BDE        apply_leave                Apply leave              
+BDE        assign_leads               Assign leads             
+BDE        clock_attendance           Clock in/out             
+BDE        comment_sales              Comment on leads         
+BDE        convert_client             Convert lead to client   
+BDE        submit_eod                 Submit EOD               
+BDE        update_sales               Update sales             
+BDE        update_sales               Update sales             
+BDE        view_sales                 View sales & leads       
+BDE        view_sales                 View sales & leads       
+BDE        view_sales_status_history  View sales status history
+BDE        view_tasks                 View tasks               
+BDM        apply_leave                Apply leave              
+BDM        assign_leads               Assign leads             
+BDM        clock_attendance           Clock in/out             
+BDM        comment_sales              Comment on leads         
+BDM        convert_client             Convert lead to client   
+BDM        submit_eod                 Submit EOD               
+BDM        update_sales               Update sales             
+BDM        update_sales               Update sales             
+BDM        view_dashboard_department  Department dashboard     
+BDM        view_sales                 View sales & leads       
+BDM        view_sales                 View sales & leads       
+BDM        view_sales_status_history  View sales status history
+BDM        view_tasks                 View tasks               
+Client     view_projects              View projects            
+Client     view_tasks                 View tasks               
+Employee   apply_leave                Apply leave              
+Employee   apply_leave                Apply leave              
+Employee   clock_attendance           Clock in/out             
+Employee   clock_attendance           Clock in/out             
+Employee   comment_task               Comment task             
+Employee   submit_eod                 Submit EOD               
+Employee   submit_eod                 Submit EOD               
+Employee   view_attendance            View attendance          
+Employee   view_eod                   View EOD                 
+Employee   view_leaves                View leaves              
+Employee   view_tasks                 View tasks               
+Employee   view_tasks                 View tasks               
+HOD        approve_leave              Approve leave            
+HOD        assign_project_team        Assign project team      
+HOD        assign_task                Assign task              
+HOD        comment_eod                Comment EOD              
+HOD        comment_sales              Comment on leads         
+HOD        comment_task               Comment task             
+HOD        create_project             Create project           
+HOD        edit_project               Edit project             
+HOD        view_activity_logs         View activity logs       
+HOD        view_attendance_reports    View attendance reports  
+HOD        view_dashboard_department  Department dashboard     
+HOD        view_departments           View departments         
+HOD        view_eod                   View EOD                 
+HOD        view_projects              View projects            
+HOD        view_projects              View projects            
+HOD        view_roles                 View roles               
+HOD        view_sales                 View sales & leads       
+HOD        view_sales                 View sales & leads       
+HOD        view_sales_status_history  View sales status history
+HOD        view_tasks                 View tasks               
+HOD        view_tasks                 View tasks               
+HOD        view_users                 View user profiles       
+Team Lead  assign_leads               Assign leads             
+Team Lead  assign_task                Assign task              
+Team Lead  assign_task                Assign task              
+Team Lead  comment_task               Comment task             
+Team Lead  comment_task               Comment task             
+Team Lead  create_task                Create task              
+Team Lead  view_attendance            View attendance          
+Team Lead  view_attendance            View attendance          
+Team Lead  view_dashboard_team        Team dashboard           
+Team Lead  view_eod                   View EOD                 
+Team Lead  view_eod                   View EOD                 
+Team Lead  view_projects              View projects            
+Team Lead  view_sales                 View sales & leads       
+Team Lead  view_tasks                 View tasks               
+Team Lead  view_tasks                 View tasks               
